@@ -1,0 +1,76 @@
+.card {
+    /* Add shadows to create the "card" effect */
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    transition: 0.3s;
+}
+
+
+/* Add some padding inside the card container */
+
+.card .card-heading {
+    padding: 16px 12px;
+    font-weight: 600;
+}
+
+.card .card-content {
+    padding: 12px 4px;
+    font-size: 28px;
+}
+
+.teal-700 {
+    background: #00bfa5 !important;
+    color: #ffffff;
+}
+
+.orange-700 {
+    background: #e65100 !important;
+    color: #ffffff;
+}
+
+.grey-blue-dark {
+    background: #263238 !important;
+    color: #ffffff;
+}
+
+.margin-top-default {
+    margin-top: 14px;
+}
+
+.navbar-brand .logo {
+    max-width: 32px;
+}
+
+.logo-container {
+    max-width: 128px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.logo-container .logo {
+    max-width: 128px;
+}
+
+.login-container {
+    padding: 10px;
+    max-width: 50%;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.loader {
+    max-width: 64px;
+}
+
+.change-password-container {
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 50%;
+}
+
+.registerPage {
+    background: url('../images/k.jpg')
+}
+
+.padding-default {
+    padding: 4px 8px;
+}
